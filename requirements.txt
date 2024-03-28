@@ -3,4 +3,8 @@ pandas
 matplotlib
 seaborn
 streamlit
-plotly==5.9.0
+plotly
+datetime
+Image
+os
+warnings
